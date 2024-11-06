@@ -1,7 +1,5 @@
-<div align="center">
-  <p align="center"; font-size="25px">
-    <b> Test Code Documentation </b>
-  </p>
+<div style="text-align: center; font-size: 25px;">
+    <b>Test Code Documentation</b>
 </div>
 
 ## Overview
