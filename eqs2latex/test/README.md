@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 style="font-size: 24px;"><b><ins>Test Code Documentation</ins</b></h3>
+  <h2><b><ins>Test Code Documentation</ins</b></h2>
 </div>
 
 ## Overview
