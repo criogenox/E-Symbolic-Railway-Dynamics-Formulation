@@ -17,7 +17,7 @@ Testing process for the complete LaTeX conversion flow.
 ### `TEST(ProcessExpressionTest, HandleExpressions)`
 
 > **Description**: 
-Verifies the splitting funcionality (`splitTerms`) and the individual LaTeX conversion (`convertToLatex`)
+Verifies the splitting funcionality `(splitTerms)` and the individual LaTeX conversion `(convertToLatex)`
 
 ### `TEST(ExtractTermsTest, FullExtraction)`
 
@@ -32,4 +32,4 @@ Validates the `sortTerms` function to guarantee the sorting process according to
 ### `TEST(ReconstructOutputTest, TermsReconstruction)`
 
 > **Description**: 
-Tests the final reconstruction step (`reconstruct Output`) to verify the perfect assembling of the sorted terms vector.
+Tests the final reconstruction step `(reconstruct Output)` to verify the perfect assembling of the sorted terms vector.
