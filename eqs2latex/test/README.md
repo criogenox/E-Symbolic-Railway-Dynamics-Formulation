@@ -1,4 +1,8 @@
-<h3 style="text-align: center; font-weight: bold; font-size: 25px; text-decoration: underline;"> Test Code Documentation </h3> 
+<div align="center">
+  <p align="center"; font-size="25px">
+    <b> Test Code Documentation </b>
+  </p>
+</div>
 
 ## Overview
 
