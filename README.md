@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a align="center">
-    <img src="https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/assets/53323058/233f4d34-3278-4f4c-92d2-064d2ed29277.png" alt="Logo" width="500">
+    <img src="https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/assets/53323058/fa3fdd3b-06d8-4c92-aa6f-c53375bcf65a.png" alt="Logo" width="500">
   </a>
   <h3 align="center">Railway applications &#x300A; D &#x300B;</h3>
   <p align="center">
