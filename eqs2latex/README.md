@@ -3,7 +3,7 @@
 </div>
 
 ## Overview
-
+<div align="justify">
 > This C++ code provides functions for converting symbolic (strings) expressions 
 of dynamic equations into LaTeX format. 
 
@@ -12,9 +12,10 @@ of dynamic equations into LaTeX format.
 - Includes sorting capabilities of terms based on their derivative order. 
 
 The main function `convert` processes an input expression and outputs a formatted LaTeX string.
-
+<div>
+  
 ## Functions
-
+<div align="justify">
 ### `find1NumberPos`
 
 > **Description**:  
@@ -128,8 +129,9 @@ Gtest-function call for performing the complete flow of input processing. It con
 
 **Returns**:
 - A string representing the complete LaTeX formatted output.
-
+<div>
 
 ## Usage Example
-
+<div align="justify">
 - See `main.cpp` for comprehensive & detailed outputs steps, or `test.cpp` otherwise.
+<div>
