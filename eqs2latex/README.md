@@ -16,6 +16,7 @@ The main function `convert` processes an input expression and outputs a formatte
   
 ## Functions
 <div align="justify">
+  
 ### `find1NumberPos`
 
 > **Description**:  
