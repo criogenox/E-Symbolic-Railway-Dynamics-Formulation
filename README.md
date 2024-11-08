@@ -28,31 +28,28 @@
 <div align="justify">
   <p>
 
-> The initial phase of the project has been developed, which involves the functionality to `translate standard mathematical expressions`, used generally in dynamical formulations, into `LaTeX formatting`. The given developed tool will enable users to focus on analysis and interpretation, rather than formatting the result, by providing a seamless way to convert equations into a clear and visually appealing, and efficiently document their insights. 
+The initial phase of the project has been developed, which involves the functionality to `translate standard mathematical expressions`, used generally in dynamical formulations, into `LaTeX formatting`. The given developed tool will enable users to focus on analysis and interpretation, rather than formatting the result, by providing a seamless way to convert equations into a clear and visually appealing, and efficiently document their insights. 
 
 `Currently eatures:`
 
 - Support for derivatives, super/subscripts, special characters, and several operators. Detailed documentation for these features can be found in here.
-
-> Overriding of several mouse events for graphical managing of loaded images.
-
-`Functionalities:`
-- Handles mouse press events to dragging and panning (warning, inverted mouse buttons).
-- Focus zooming on cursor position disabling the vertical scrollbar to enhance zoom experience.
-- Handles double-click events to fit the scene within the view, keeping the aspect ratio.
+  
    </p>
    <div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Built With
+## Work in progress
 
-<div style="display: flex; flex-direction: column; align=center">
-    <img class="img"src="https://github.com/criogenox/B_ECC-Cpp-version_plot-capabilities_noGUI/assets/53323058/1fdf2d22-fb04-45aa-9db0-8bd973942914.png" alt="Logo" width="100" height="90"/>
-    <img class="img"src="https://github.com/criogenox/D-Technical-Railway-Data-Viewer-from-SQLitedb/assets/53323058/c17664ed-56c6-4479-959c-844f744bc47b.png" alt="Logo" width="150" height="85"/>
-    <img class="img"src="https://github.com/criogenox/B_ECC-Cpp-version_plot-capabilities_noGUI/assets/53323058/6870b0b2-403c-49da-b745-5714b08f4a73.png" alt="Logo" width="100" height="90"/>
-    <img class="img"src="https://github.com/criogenox/B_ECC-Cpp-version_plot-capabilities_noGUI/assets/53323058/781b169a-440c-4c8a-9fbb-caa5ce150d13.png" alt="Logo" width="90" height="85"/>
-
+<div align="justify">
+  <p>
+    
+`**Direct conversion from GiNaC formulae**`
+ 
+> The previous mentioned library (eqs2latex) takes as input the result of the processed expressions originated from the formulation of systems of dynamical equations, represented in symbolic form using GiNaC C++ library.
+   </p>
+   <div>
+     
 ### Additional info
 
 * `Extensive` checking of instance deletion to ensure proper and effective resource management, preventing memory leaks.
