@@ -4,6 +4,7 @@
 
 ## Overview
 <div align="justify">
+  
 > This C++ code provides functions for converting symbolic (strings) expressions 
 of dynamic equations into LaTeX format. 
 
