@@ -44,7 +44,7 @@ The initial phase of the project has been developed, which involves the function
 <div align="justify">
   <p>
     
-`**Direct conversion from GiNaC formulae**`
+**`Direct conversion from GiNaC formulae`**
  
 > The previous mentioned library (eqs2latex) takes as input the result of the processed expressions originated from the formulation of systems of dynamical equations, represented in symbolic form using GiNaC C++ library.
    </p>
