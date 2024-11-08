@@ -82,4 +82,4 @@ Distributed under the MIT License. See [LICENSE.txt][license-url] for more infor
 [linkedin-url]: https://www.linkedin.com/in/criogenox/
 [eqsreadme-url]: https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/tree/master/eqs2latex
 [eqssrc-url]: https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/tree/master/eqs2latex/src
-[license-url]: https://github.com/criogenox/D-Technical-Railway-Data-Viewer-from-SQLitedb/tree/main?tab=MIT-1-ov-file
+[license-url]: https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/tree/master?tab=MIT-1-ov-file
