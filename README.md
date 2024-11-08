@@ -30,7 +30,7 @@
 
 The initial phase of the project has been developed, which involves the functionality to `translate standard mathematical expressions`, used generally in dynamical formulations, into `LaTeX formatting`. The given developed tool will enable users to focus on analysis and interpretation, rather than formatting the result, by providing a seamless way to convert equations into a clear and visually appealing, and efficiently document their insights. 
 
-`Currently eatures:`
+`Currently features:`
 
 - Support for derivatives, super/subscripts, special characters, and several operators. Detailed documentation for these features can be found in [here][eqsreadme-url].
    </p>
@@ -45,9 +45,9 @@ The initial phase of the project has been developed, which involves the function
     
 **`Direct conversion from GiNaC formulae`**
  
-> The previous mentioned library (eqs2latex) takes as input the result of the processed expressions originated from the formulation of dynamical equations systems, represented in symbolic form using GiNaC C++ library.
+> The previous mentioned library [eqs2latex][eqsreadme-url] takes as input the result of the processed expressions originated from the formulation of dynamical equations systems, represented in symbolic form using GiNaC C++ library.
 
-- `Pursued objective:` generate a semi-automatic coded process to formulate the mechanical systems equations of motion set, in symbolic form and using modern C++
+- `Pursued objective:` generate a semi-automatic coded process to formulate the mechanical systems equations of motion set, using modern C++
   
    </p>
    <div>
