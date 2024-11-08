@@ -28,10 +28,11 @@
 <div align="justify">
   <p>
 
-The initial phase of the project, which involves the functionality to translate standard mathematical expressions used generally in dynamical formulations, has been developed. The given developed tool will enable users to focus on analysis and interpretation, rather than formatting the result, by providing a seamless way to convert equations into a clear and visually appealing, and efficiently document their insights. The following features are currently available: support for derivatives, super/subscripts, special characters, and several operators. Detailed documentation for these features can be found in here.
+> The initial phase of the project has been developed, which involves the functionality to `translate standard mathematical expressions`, used generally in dynamical formulations, into `LaTeX formatting`. The given developed tool will enable users to focus on analysis and interpretation, rather than formatting the result, by providing a seamless way to convert equations into a clear and visually appealing, and efficiently document their insights. 
 
-`Functionality:`
-- Updates the view/scene size to fit the new dimensions generated due to mainwindow rescaling, dock's area/size changes or splitter movements.
+`Currently eatures:`
+
+- Support for derivatives, super/subscripts, special characters, and several operators. Detailed documentation for these features can be found in here.
 
 > Overriding of several mouse events for graphical managing of loaded images.
 
