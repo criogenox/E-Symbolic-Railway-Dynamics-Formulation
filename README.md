@@ -5,7 +5,7 @@
   <a align="center">
     <img src="https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/assets/53323058/4b126ff6-1d93-40ec-911c-9ffca3eb7abb.png" alt="Logo" width="700">
   </a>
-  <h3 align="center">Railway applications &#x300A; D &#x300B;</h3>
+  <h3 align="center">Railway applications &#x300A; E &#x300B;</h3>
   <p align="center">
     Database Technical Info Viewer
   </p>
@@ -16,31 +16,19 @@
 <div align="justify">
   <p>
   
-> `C++` application providing a comprehensive graphical interface for managing and visualizing data from a dynamic sql table through customizable dockable windows.
-
-`Key Features:`
-- Image viewing: it displays formats with zoom and pan capabilities.
-- Dock management: create, close, and restore dock windows on demand.
-- Data interaction: manipulating data directly from a SQLite database.
-- Clean GUI: responsive layout adapting to multiple resize events.
+> The global goal: develop a tool to aid the process of complex mechanical systems' simulation, mainly focused on railway vehicles and especially, on articulated modular railcar models. It also enhances the ease of writing documentation, reports, and academic papers, where lengthy equations or complex mathematical expressions need to be used.
    </p>
        <p align="right">
     :muscle: don't let anyone get you down :muscle:
   </p> 
    <div>
 
-## Key Methods
+## Current Status
 
 <div align="justify">
   <p>
 
-> Dynamic creation of dock widgets for displaying information related to a specified table.
-
-`Functionalities:`
-- Checks for existing docks with the same name to prevent duplicates.
-- Restoration of closed docks to their previous geometry, while preventing the creation of new ones.
-
-> Handling view size fitting in response to several resizing events (including image initial loading).
+The initial phase of the project, which involves the functionality to translate standard mathematical expressions used generally in dynamical formulations, has been developed. The given developed tool will enable users to focus on analysis and interpretation, rather than formatting the result, by providing a seamless way to convert equations into a clear and visually appealing, and efficiently document their insights. The following features are currently available: support for derivatives, super/subscripts, special characters, and several operators. Detailed documentation for these features can be found in here.
 
 `Functionality:`
 - Updates the view/scene size to fit the new dimensions generated due to mainwindow rescaling, dock's area/size changes or splitter movements.
