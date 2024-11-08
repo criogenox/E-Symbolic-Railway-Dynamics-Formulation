@@ -7,7 +7,7 @@
   </a>
   <h3 align="center">Railway applications &#x300A; E &#x300B;</h3>
   <p align="center">
-    Database Technical Info Viewer
+    Form-Bridge: Bridging Formulas with Motion
   </p>
 </div>
 
