@@ -32,8 +32,7 @@ The initial phase of the project has been developed, which involves the function
 
 `Currently eatures:`
 
-- Support for derivatives, super/subscripts, special characters, and several operators. Detailed documentation for these features can be found in here.
-  
+- Support for derivatives, super/subscripts, special characters, and several operators. Detailed documentation for these features can be found in [here][eqsreadme-url].
    </p>
    <div>
 
@@ -49,29 +48,24 @@ The initial phase of the project has been developed, which involves the function
 > The previous mentioned library (eqs2latex) takes as input the result of the processed expressions originated from the formulation of systems of dynamical equations, represented in symbolic form using GiNaC C++ library.
    </p>
    <div>
-     
-### Additional info
 
-* `Extensive` checking of instance deletion to ensure proper and effective resource management, preventing memory leaks.
-* Widget `stylizing` by a modified theme based on the extremely useful original contribution [QT DarkTheme][qtdarktheme-url].
+## Planned Features
 
-##  General view sample
-
-<div align="justify"> 
-  <!-- <img align="right" src="https://user-images.githubusercontent.com/53323058/230650942-4c2e0ad4-2d52-46fe-aa67-8860c642e5f6.png" width="500"> -->
-<img align="center" src="https://github.com/criogenox/D-Technical-Railway-Data-Viewer-from-SQLitedb/assets/53323058/3346ae8d-bf79-49cc-b1fd-292e3448c33c.png">
+<div align="justify">
+  <p>
+    
+**`Numerical resolution of formulated system (and other add-ons):`**
+   
+> Additionally, the upcoming aim to implement numerical solving capabilities for systems of equations using the Boost or Eigen C++ libraries, enabling users to fully set a practical analysis  of dynamical systems.
    </p>
-       <p align="center">
-Full functionalities in use:  clickable table index, independent views with their corresponding dock info.
-  </p> 
-</div>
+   <div>
 
 <!-- ROADMAP -->
 ## TODO
 
-- [ ] Completely populate the database.
-- [ ] Logic implementation for all selection cases.
-- [ ] Improve error handling.
+- [ ] 
+- [ ] 
+- [ ] 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -81,8 +75,5 @@ Full functionalities in use:  clickable table index, independent views with thei
 Distributed under the MIT License. See [LICENSE.txt][license-url] for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://user-images.githubusercontent.com/53323058/230575198-fa1acbf4-8f82-4d8e-b245-3979276bc240.png
-[linkedin-url]: https://www.linkedin.com/in/criogenox/
-[qtdarktheme-url]: https://github.com/keshav-sahu7/qt-dark-theme
+[eqsreadme-url]: https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/tree/master/eqs2latex
 [license-url]: https://github.com/criogenox/D-Technical-Railway-Data-Viewer-from-SQLitedb/tree/main?tab=MIT-1-ov-file
