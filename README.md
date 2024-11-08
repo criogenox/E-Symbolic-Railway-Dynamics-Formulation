@@ -45,7 +45,7 @@ The initial phase of the project has been developed, which involves the function
     
 **`Direct conversion from GiNaC formulae`**
  
-> The previous mentioned library [eqs2latex][eqsreadme-url] takes as input the result of the processed expressions originated from the formulation of dynamical equations systems, represented in symbolic form using GiNaC C++ library.
+> The previous mentioned library [eqs2latex][eqssrc-url] takes as input the result of the processed expressions originated from the formulation of dynamical equations systems, represented in symbolic form using GiNaC C++ library.
 
 - `Pursued objective:` generate a semi-automatic coded process to formulate the mechanical systems equations of motion set, using modern C++
   
@@ -81,4 +81,5 @@ Distributed under the MIT License. See [LICENSE.txt][license-url] for more infor
 [linkedin-shield]: https://user-images.githubusercontent.com/53323058/230575198-fa1acbf4-8f82-4d8e-b245-3979276bc240.png
 [linkedin-url]: https://www.linkedin.com/in/criogenox/
 [eqsreadme-url]: https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/tree/master/eqs2latex
+[eqssrc-url]: https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/tree/master/eqs2latex/src
 [license-url]: https://github.com/criogenox/D-Technical-Railway-Data-Viewer-from-SQLitedb/tree/main?tab=MIT-1-ov-file
