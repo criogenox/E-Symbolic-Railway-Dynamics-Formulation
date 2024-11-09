@@ -78,7 +78,7 @@ The initial phase of the project has been developed, which involves the function
    <div>
 
 <!-- ROADMAP -->
-## TODO
+## Roadmap
 
 - [x] Initial eqs2latex release
 - [ ] Symbolic systems' factory implementation
