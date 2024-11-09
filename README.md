@@ -38,7 +38,7 @@ The initial phase of the project has been developed, which involves the function
    </p>
    <div>
 
-## Conversion example using [GiNaC][ginac-url]
+## Conversion example
 
 - **Raw input (from [GiNaC][ginac-url] expression):**
 
