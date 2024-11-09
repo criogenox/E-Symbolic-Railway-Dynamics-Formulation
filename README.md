@@ -17,12 +17,12 @@
   <p>
   
 > The global goal: develop a tool to aid the process of complex mechanical systems' simulation, mainly focused on railway vehicles and especially, on articulated modular railcar models. It also enhances the ease of writing documentation, reports, and academic papers, where lengthy equations or complex mathematical expressions need to be used.
-
-`Personal note:` figure uses Spanish language, cos I like that way. Thanks.
    </p>
        <p align="right">
     :muscle: don't let anyone get you down :muscle:
   </p> 
+
+`Personal note:` figure uses Spanish language, cos I like that way. Thanks.
    <div>
 
 ## Current Status
