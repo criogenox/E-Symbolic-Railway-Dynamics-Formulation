@@ -42,12 +42,12 @@ The initial phase of the project has been developed, which involves the function
 
 - **Raw input (from [GiNaC][ginac-url] expression):**
 
-`4*C2*b*d_theta1-3*C153*d_phi1+7*a5^3*C3*d_phi1+C12*d_psi1-M1*axy^2*d2_theta1+a^2*C3*d_psi1+a*K1*d_xi1+c^2*am*C3*d_theta1-4*M2*b*d2_xi1-4*C*d_phi1+16*C7*d_psi1=0`
+`4*C2*b*d_theta1-3*C153*d_phi1+7*a5^3*C3*d_phi1+C12*d_psi1-M1*axy^2*d2_theta1+a^2*C3*d_psi1+s*F10+c^2*am*C3*d_theta1-4*M2*b*d2_xi1-4*C*d_phi1+16*C7*d_psi1=0`
 
 - **LaTeX library output:**
 
 <div>
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\LARGE&space;{\color{Blue}-M_{1}a_{xy}^{2}\ddot{\theta}_{1}-4M_{2}b\ddot{\xi}_{1}&plus;4C_{2}b\dot{\theta}_{1}-3C_{153}\dot{\phi}_{1}&plus;7a_{5}^{3}C_{3}\dot{\phi}_{1}&plus;C_{12}\dot{\psi}_{1}&plus;a_{}^{2}C_{3}\dot{\psi}_{1}&plus;aK_{1}\dot{\xi}_{1}&plus;c_{}^{2}a_{m}C_{3}\dot{\theta}_{1}-4C\dot{\phi}_{1}&plus;16C_{7}\dot{\psi}_{1}=0}" title="{\color{Red}-M_{1}a_{xy}^{2}\ddot{\theta}_{1}-4M_{2}b\ddot{\xi}_{1}+4C_{2}b\dot{\theta}_{1}-3C_{153}\dot{\phi}_{1}+7a_{5}^{3}C_{3}\dot{\phi}_{1}+C_{12}\dot{\psi}_{1}+a_{}^{2}C_{3}\dot{\psi}_{1}+aK_{1}\dot{\xi}_{1}+c_{}^{2}a_{m}C_{3}\dot{\theta}_{1}-4C\dot{\phi}_{1}+16C_{7}\dot{\psi}_{1}=0}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\LARGE&space;{\color{Blue}-M_{1}a_{xy}^{2}\ddot{\theta}_{1}-4M_{2}b\ddot{\xi}_{1}&plus;4C_{2}b\dot{\theta}_{1}-3C_{153}\dot{\phi}_{1}&plus;7a_{5}^{3}C_{3}\dot{\phi}_{1}&plus;C_{12}\dot{\psi}_{1}&plus;a_{}^{2}C_{3}\dot{\psi}_{1}&plus;c_{}^{2}a_{m}C_{3}\dot{\theta}_{1}-4C\dot{\phi}_{1}&plus;16C_{7}\dot{\psi}_{1}&plus;sF_{10}=0}" title="{\color{Blue}-M_{1}a_{xy}^{2}\ddot{\theta}_{1}-4M_{2}b\ddot{\xi}_{1}+4C_{2}b\dot{\theta}_{1}-3C_{153}\dot{\phi}_{1}+7a_{5}^{3}C_{3}\dot{\phi}_{1}+C_{12}\dot{\psi}_{1}+a_{}^{2}C_{3}\dot{\psi}_{1}+c_{}^{2}a_{m}C_{3}\dot{\theta}_{1}-4C\dot{\phi}_{1}+16C_{7}\dot{\psi}_{1}+sF_{10}=0}" />
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
