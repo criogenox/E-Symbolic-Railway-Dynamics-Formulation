@@ -134,6 +134,9 @@ Gtest-function call for performing the complete flow of input processing. It con
 <div>
 
 ## Usage Example
-<div align="justify">
-- See `main.cpp` for comprehensive & detailed outputs steps, or `test.cpp` otherwise.
-<div>
+
+- See [main.cpp][mainsrc-url] for comprehensive & detailed outputs steps, or [test.cpp][testsrc-url] otherwise.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[mainsrc-url]: https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/blob/master/eqs2latex/src/main.cpp
+[testsrc-url]: https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/blob/master/eqs2latex/test/test.cpp
