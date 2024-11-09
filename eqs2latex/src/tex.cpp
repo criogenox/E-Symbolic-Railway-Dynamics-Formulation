@@ -1,5 +1,17 @@
 #include "tex.h"
 
+void eraseEmptyBraces(std::string &output) {
+    // Substring to erase
+    const std::string toErase = "_{}";
+    size_t pos = 0;
+
+    // Loop to find and erase all occurrences of the substring
+    while ((pos = output.find(toErase, pos)) != std::string::npos) {
+        output.erase(pos, toErase.length());
+        // No need to increment pos, as the string has changed
+    }
+}
+
 unsigned find1NumberPos(const std::string &str) {
     // Backward scan preventing undesirable front-numbers detection
     for (unsigned i = str.size(); i > 0; --i) {
@@ -65,7 +77,7 @@ std::string convertToLatex(const std::string &input) {
     return output;
 }
 
-// Match any individual term (-|+|*|=|==|0 operators as delimiters)
+// Match any individual element (-|+|*|=|==|0 operators as delimiters)
 std::vector<std::string> splitTerms(const std::string &expression) {
     std::vector<std::string> terms;
     const std::regex regex(R"((==)|(=)|(\*)|(\+)|(-)|([^ \*\=\+\-]+))");
@@ -87,6 +99,8 @@ std::string processExpression(const std::string &expression) {
             latexOutput += convertToLatex(term);
         }
     }
+    // Remove empty braces "_{}"
+    eraseEmptyBraces(latexOutput);
     return latexOutput;
 }
 
@@ -146,6 +160,8 @@ std::string reconstructOutput(const std::vector<std::string> &sortedTerms) {
         }
         output += term;
     }
+    // Remove '*' from the output
+    std::erase(output, '*');
     return output;
 }
 
@@ -168,8 +184,9 @@ std::string convert(const std::string &input) {
     std::string output;
     output.append(reconstructOutput(sortedTerms)).append(" ").append(noRHS);
 
-    // Remove '*' from the output
+    // Remove '*' and empty braces "_{}" from the output
     std::erase(output, '*');
+    eraseEmptyBraces(output);
 
     return output;
 }

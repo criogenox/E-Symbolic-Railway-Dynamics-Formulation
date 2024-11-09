@@ -10,6 +10,8 @@
 #include <algorithm>
 #include <iostream>
 
+void eraseEmptyBraces(std::string &output);
+
 unsigned find1NumberPos(const std::string &str);
 
 std::string convertToLatex(const std::string &input);
