@@ -44,7 +44,7 @@ The initial phase of the project has been developed, which involves the function
 
 <div align="justify">
 <p align="center">
-<code><strong>4*C2*b*d_theta1-3*C153*d_phi1+7*a5^3*C3*d_phi1+C12*d_psi1-M1*axy^2*d2_theta1+a^2*C3*d_psi1+s*F10+c^2*am*C3*d_theta1-4*M2*b*d2_xi1-4*C*d_phi1+16*C7*d_psi1=0<strong><code>
+<strong>4*C2*b*d_theta1-3*C153*d_phi1+7*a5^3*C3*d_phi1+C12*d_psi1-M1*axy^2*d2_theta1+a^2*C3*d_psi1+s*F10+c^2*am*C3*d_theta1-4*M2*b*d2_xi1-4*C*d_phi1+16*C7*d_psi1=0<strong>
 <p>
 <div>
   
