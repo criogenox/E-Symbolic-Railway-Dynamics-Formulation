@@ -47,7 +47,7 @@ The initial phase of the project has been developed, which involves the function
  
 > The previous mentioned library [eqs2latex][eqssrc-url] takes as input the result of the processed expressions originated from the formulation of dynamical equations systems, represented in symbolic form using GiNaC C++ library.
 
-- `Pursued objective:` generate a semi-automatic coded process to formulate the mechanical systems equations of motion set, using modern C++
+- `Pursued objective:` generate a semi-automatic coded process to formulate the mechanical systems' equations of motion set, using modern C++
   
    </p>
    <div>
