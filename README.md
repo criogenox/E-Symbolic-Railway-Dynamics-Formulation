@@ -38,9 +38,9 @@ The initial phase of the project has been developed, which involves the function
    </p>
    <div>
 
-## Conversion example
+## Conversion example using [GiNaC][ginac-url] expression
 
-- **`Raw input (from GiNaC expression):`**
+- **`Raw input:`**
 
 `4*C2*b*d_theta1-3*C153*d_phi1+7*a5^3*C3*d_phi1+C12*d_psi1-M1*axy^2*d2_theta1+a^2*C3*d_psi1+a*K1*d_xi1+c^2*am*C3*d_theta1-4*M2*b*d2_xi1-4*C*d_phi1+16*C7*d_psi1=0";`
 
@@ -96,4 +96,5 @@ Distributed under the MIT License. See [LICENSE.txt][license-url] for more infor
 [linkedin-url]: https://www.linkedin.com/in/criogenox/
 [eqsreadme-url]: https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/tree/master/eqs2latex
 [eqssrc-url]: https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/tree/master/eqs2latex/src
+[ginac-url]: https://www.ginac.de/
 [license-url]: https://github.com/criogenox/E-Symbolic-Railway-Dynamics-Formulation/tree/master?tab=MIT-1-ov-file
