@@ -4,7 +4,7 @@ void eraseEmptyBraces(std::string &output) {
     const std::string toErase = "_{}";
     size_t pos = 0;
 
-    // Loop to find and erase all occurrences of the substring
+    // Erasing all occurrences
     while ((pos = output.find(toErase, pos)) != std::string::npos) {
         output.erase(pos, toErase.length());
     }
