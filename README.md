@@ -80,9 +80,9 @@ The initial phase of the project has been developed, which involves the function
 <!-- ROADMAP -->
 ## TODO
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] Initial eqs2latex release
+- [ ] Symbolic system factory implementation
+- [ ] Numerical add-ons deployment
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
