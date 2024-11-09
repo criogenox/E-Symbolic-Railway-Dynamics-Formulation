@@ -46,9 +46,12 @@ The initial phase of the project has been developed, which involves the function
 
 - **LaTeX library output:**
 
-<div>
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\LARGE&space;{\color{Blue}-M_{1}a_{xy}^{2}\ddot{\theta}_{1}-4M_{2}b\ddot{\xi}_{1}&plus;4C_{2}b\dot{\theta}_{1}-3C_{153}\dot{\phi}_{1}&plus;7a_{5}^{3}C_{3}\dot{\phi}_{1}&plus;C_{12}\dot{\psi}_{1}&plus;a^{2}C_{3}\dot{\psi}_{1}&plus;c^{2}a_{m}C_{3}\dot{\theta}_{1}-4C\dot{\phi}_{1}&plus;16C_{7}\dot{\psi}_{1}&plus;sF_{10}=0}" title="{\color{Blue}-M_{1}a_{xy}^{2}\ddot{\theta}_{1}-4M_{2}b\ddot{\xi}_{1}+4C_{2}b\dot{\theta}_{1}-3C_{153}\dot{\phi}_{1}+7a_{5}^{3}C_{3}\dot{\phi}_{1}+C_{12}\dot{\psi}_{1}+a^{2}C_{3}\dot{\psi}_{1}+c^{2}a_{m}C_{3}\dot{\theta}_{1}-4C\dot{\phi}_{1}+16C_{7}\dot{\psi}_{1}+sF_{10}=0}" />
-</div>
+<p align="center">
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\LARGE&space;{\color{Blue}-M_{1}a_{xy}^{2}\ddot{\theta}_{1}-4M_{2}b\ddot{\xi}_{1}&plus;4C_{2}b\dot{\theta}_{1}-3C_{153}\dot{\phi}_{1}&plus;7a_{5}^{3}C_{3}\dot{\phi}_{1}}" title="{\color{Blue}-M_{1}a_{xy}^{2}\ddot{\theta}_{1}-4M_{2}b\ddot{\xi}_{1}+4C_{2}b\dot{\theta}_{1}-3C_{153}\dot{\phi}_{1}+7a_{5}^{3}C_{3}\dot{\phi}_{1}}" />
+</p>
+<p align="center">
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\LARGE&space;{\color{Blue}&plus;C_{12}\dot{\psi}_{1}&plus;a^{2}C_{3}\dot{\psi}_{1}&plus;c^{2}a_{m}C_{3}\dot{\theta}_{1}-4C\dot{\phi}_{1}&plus;16C_{7}\dot{\psi}_{1}&plus;sF_{10}=0}" title="{\color{Blue}+C_{12}\dot{\psi}_{1}+a^{2}C_{3}\dot{\psi}_{1}+c^{2}a_{m}C_{3}\dot{\theta}_{1}-4C\dot{\phi}_{1}+16C_{7}\dot{\psi}_{1}+sF_{10}=0}" />
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
