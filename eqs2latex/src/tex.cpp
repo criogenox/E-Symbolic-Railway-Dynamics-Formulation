@@ -1,14 +1,12 @@
 #include "tex.h"
 
 void eraseEmptyBraces(std::string &output) {
-    // Substring to erase
     const std::string toErase = "_{}";
     size_t pos = 0;
 
     // Loop to find and erase all occurrences of the substring
     while ((pos = output.find(toErase, pos)) != std::string::npos) {
         output.erase(pos, toErase.length());
-        // No need to increment pos, as the string has changed
     }
 }
 
